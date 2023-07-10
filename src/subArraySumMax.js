@@ -1,4 +1,4 @@
-array = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
+const array = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
 
 // primeira forma para entendimento do requisito
 
