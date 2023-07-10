@@ -41,5 +41,5 @@ sumMax2 = (array) => {
   return maxSum
 }
 
-console.log(sumMax(array));
+// console.log(sumMax(array));
 console.log(sumMax2(array));
